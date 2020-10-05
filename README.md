@@ -1,16 +1,11 @@
-# peliculas
+# App de Peliculas
 
-A new Flutter project.
+Es una aplicación hecha con servicios Rest y Flutter.
+## Funciones
+1.  Busqueda de peliculas por nombre .
+1.  Detalles de las peliculas.
+1. Actores de las peliculas.
+1. Sinapsis.
+### Se utilizó las siguientes herramientas
+- themoviedb.org [API]
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
